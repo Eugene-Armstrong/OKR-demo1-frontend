@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "Jeffery Practice",
+  "usingComponents": {
+    "uni-section": "/components/uni-section/uni-section",
+    "uni-swiper-dot": "/components/uni-swiper-dot/uni-swiper-dot"
+  }
+}
