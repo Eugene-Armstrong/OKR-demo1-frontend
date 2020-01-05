@@ -13,7 +13,7 @@ var _App = _interopRequireDefault(__webpack_require__(/*! ./App */ 9));function 
 
 _vue.default.config.productionTip = false;
 
-_vue.default.prototype.CUSTOM_BASE_URL = 'http://aktq8s.natappfree.cc';
+_vue.default.prototype.CUSTOM_BASE_URL = 'http://aktq8s.natappfree.cc'; //natapp免费隧道(临时用)
 
 _App.default.mpType = 'app';
 
